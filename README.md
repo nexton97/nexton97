@@ -45,10 +45,6 @@
     <img alt="Sql" src="https://img.shields.io/badge/Sql%20-%2300599C.svg?style=plastic&logo=Sql%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
@@ -64,6 +60,13 @@
    <a href="https://spring.io/projects/spring-boot/" target="_blank">
     <img alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?&style=plastic&logo=spring&logoColor=white">
   </a>
+	  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+	<a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
+   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
@@ -80,13 +83,7 @@
   <a href="https://react.dev/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-	<a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
-   </a>
+
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
