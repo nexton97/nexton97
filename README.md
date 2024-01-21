@@ -67,10 +67,10 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
+  </a>
   &emsp;
   <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/React?style=plastic&logo=react&logoColor=white">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
