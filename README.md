@@ -70,7 +70,7 @@
   </a>
   &emsp;
   <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React?style=plastic&logo=react&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -91,7 +91,7 @@
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop?style=plastic&logo=photoshop&logoColor=white"></a>
+    <a href="#"><img alt="Photoshop" src="![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=plastic"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
