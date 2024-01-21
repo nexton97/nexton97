@@ -58,11 +58,11 @@
   </a>
 	  &emsp;
    <a href="https://expressjs.com/" target="_blank">
-    <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?&style=plastic">
   </a>
 	  &emsp;
    <a href="https://spring.io/projects/spring-boot/" target="_blank">
-    <img alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?&style=plastic&logo=spring&logoColor=white">
   </a>
 </p>
 
